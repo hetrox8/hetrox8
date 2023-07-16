@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suleiman Yusuf Gacheru</h1>
 <h3 align="center">A passionate frontend developer and from Kenya</h3>
-![image](https://github.com/hetrox8/hetrox8/assets/108791588/b0f3f3c5-ceae-4030-88a3-f4950969ca43)
-">
+<img src="https://github.com/rudrabarad/Gifs">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hetrox8&label=Profile%20views&color=0e75b6&style=flat" alt="hetrox8" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hetrox8" alt="hetrox8" /></a> </p>
