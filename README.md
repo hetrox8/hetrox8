@@ -1,5 +1,7 @@
 # 💫 About Me:
-#I'm Currently learning IT Automation with Python<br>#Ask  me About Front-end development , Version  control<br>#Fun Fact i am Gamer Specifically Call of Duty
+#I'm Currently learning IT Automation with Python
+#Ask  me About Front-end development , Version  control
+#Fun Fact i am Gamer Specifically Call of Duty
 
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
