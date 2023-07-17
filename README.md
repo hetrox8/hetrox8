@@ -32,7 +32,7 @@ I'm Currently learning IT Automation with Python<br>Ask  me About Front-end deve
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buy me coffee if impressed) 
 ### Portfolio
-<p>Visit the below link to access my Portfolio</p>
+<p>Visit the link below to access my Portfolio</p>
 [Portfolio](https://docs.google.com/document/d/1Ag_Une4pdT5Cofy1CfH1ZrJuK-CabFjP/edit)
 
   
