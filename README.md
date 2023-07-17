@@ -27,7 +27,6 @@ I'm Currently learning IT Automation with Python<br>Ask  me About Front-end deve
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=hetrox8&icon=5&color=5)](https://visitcount.itsvg.in)
 [![](https://visitcount.itsvg.in/api?id=hetrox8&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
