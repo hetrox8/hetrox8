@@ -9,9 +9,6 @@ I'm Currently learning IT Automation with Python<br>Ask  me About Front-end deve
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
-## portfolio
-![Portfolio](https://docs.google.com/document/d/1Ag_Une4pdT5Cofy1CfH1ZrJuK-CabFjP/edit)
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hetrox8&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hetrox8&theme=radical&hide_border=false)<br/>
@@ -34,6 +31,10 @@ I'm Currently learning IT Automation with Python<br>Ask  me About Front-end deve
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buy me coffee if impressed) 
+### Portfolio
+<p>Not Yet available, Coming Soon</p>
+  
 ### Open To New Job Opportunities
+
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
