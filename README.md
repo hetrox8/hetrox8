@@ -1,8 +1,8 @@
 # 💫 About Me:
 # I'm Currently learning IT Automation with Python and Software  Engineering<br>
 # Ask  me About Front-end development , Version  control and System Administration<br>
-# Studied | Kenyatta University 
 # Fun Fact i am Gamer Specifically Call of Duty
+# You might Not be able to do all you Find out , but , you should find out all you can do
 
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
