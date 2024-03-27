@@ -1,5 +1,5 @@
 # 💫 About Me:
-# I'm Currently Cyber Security, Proejct Management and IT Automation with Python (Google Scholarhip Programme).<br>
+# I'm Currently Learning Cyber Security, Proejct Management and IT Automation with Python (Google Scholarhip Programme).<br>
 # Ask  me About Full-stack development, System Administration and Project Management.<br>
 # Fun Fact i am Gamer Specifically Call of Duty Mobile and Warzone.
 # You might Not be able to do all you Find out , but , you should find out all you can do
