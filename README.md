@@ -8,10 +8,18 @@ Skills
 Technical Skills
 
     Cybersecurity Tools: Wireshark, Nmap, Metasploit, Nessus
+    SIEM Tools: Splunk, Google Chronicle
     Programming Languages: Python, Bash scripting
     Operating Systems: Kali Linux, Windows
-    Security Concepts: Network traffic analysis, Vulnerability scanning, Penetration testing, Incident response
+    Security Concepts: Network traffic analysis, Vulnerability scanning,Packet Sniffing, Incident response
     Development: Ruby on Rails, React
+
+Soft Skills
+
+Stakeholder communication
+Detail orientade
+Planning and Organizing
+Effective communication and escaltion
 
 Certifications
 
