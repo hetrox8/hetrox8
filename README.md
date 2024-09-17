@@ -1,51 +1,93 @@
-<h1 align="center">Hi 👋, I'm Suleiman Gacheru</h1>
-<h3 align="center">I am a Jr. Security Analyst and Software developer with over 2 years of experience building web applications, system and network tools . My greatest strength is collaborating and driving efficiencies across teams
-and , and I have a talent for protecting and monitoring networks and systems. I am passionate about helping people with network and systems  troubles and showing them the best practices and procedure best suited for their systems And most importantly, I value having fun and being collaborative, inclusive and authentic while I do it</h3>
+Here’s the full portfolio in README format, perfect for a GitHub repository or similar platforms:
+Suleiman Yusuf Gacheru – Cybersecurity Portfolio
+About Me
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hetrox8&label=Profile%20views&color=0e75b6&style=flat" alt="hetrox8" /> </p>
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hetrox8" alt="hetrox8" /></a> </p>
+Hello! I'm Suleiman Yusuf Gacheru, a passionate cybersecurity specialist with a focus on network security, ethical hacking, and threat analysis. I recently completed the Google Cybersecurity Professional Certificate and am excited to apply my skills to real-world challenges.
 
-<p align="left"> <a href="https://twitter.com/suleiman gacheru" target="blank"><img src="https://img.shields.io/twitter/follow/suleiman gacheru?logo=twitter&style=for-the-badge" alt="suleiman gacheru" /></a> </p>
-- 🔭 I’m currently working on [Python Keylogger](https://github.com/hetrox8/Python_Key_Logger.git)
+In addition to cybersecurity, I have experience in full-stack web development using Ruby on Rails and React, which gives me a well-rounded understanding of how to secure applications from the ground up. I'm continuously learning and looking for opportunities to grow, so feel free to check out my projects or reach out for collaborations.
+Skills
+Technical Skills
 
-- 🌱 I’m currently learning **Cyber Security and Project Management**
+    Cybersecurity Tools: Wireshark, Nmap, Metasploit, Nessus
+    Programming Languages: Python, Bash scripting
+    Operating Systems: Kali Linux, Windows
+    Security Concepts: Network traffic analysis, Vulnerability scanning, Penetration testing, Incident response
+    Development: Ruby on Rails, React
 
-- 👯 I’m looking to collaborate on [Python Network Analysis Tool](https://github.com/hetrox8/Python_Network_Analysis_Tool.git)
+Certifications
 
-- 🤝 I’m looking for help with [Python Keylogger](https://github.com/hetrox8/Python_Key_Logger.git)
+    Google Cybersecurity Professional Certificate
+    [Any additional certifications here]
 
-- 👨‍💻 All of my projects are available at [https://project-portfolio-one-jet.vercel.app/project](https://project-portfolio-one-jet.vercel.app/project)
+Projects
+1. Network Traffic Analysis using Wireshark
 
-- 📝 I regularly write articles on [https://medium.com/@dretrevor8](https://medium.com/@dretrevor8)
+Description:
+Analyzed network traffic between two routers to identify potential vulnerabilities and anomalies. Captured packets with Wireshark and inspected them for signs of unauthorized access or malicious activity. I recommended mitigation strategies based on the analysis.
 
-- 💬 Ask me about **Front-end Development and Project Management**
+Skills Demonstrated:
 
-- 📫 How to reach me **dretrevor8@gmail.com**
+    Network traffic analysis
+    Packet inspection using Wireshark
+    Threat identification
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1mqgZcGNPFJ3M6R_1eWP9Tl73ZP9HmpwumQg956esNAg/edit?usp=sharing](https://docs.google.com/document/d/1mqgZcGNPFJ3M6R_1eWP9Tl73ZP9HmpwumQg956esNAg/edit?usp=sharing)
+Tools Used:
 
-- ⚡ Fun fact **I love Call of Duty**
+    Wireshark
+    Kali Linux
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/suleiman gacheru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="suleiman gacheru" height="30" width="40" /></a>
-<a href="https://twitter.com/suleiman gacheru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suleiman gacheru" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/suleiman gacheru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suleiman gacheru" height="30" width="40" /></a>
-<a href="https://www.behance.net/suleiman gacheru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="suleiman gacheru" height="30" width="40" /></a>
-<a href="https://medium.com/hetrox8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="hetrox8" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dretrevor8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dretrevor8" height="30" width="40" /></a>
-</p>
+Link: Project Repository or Case Study
+2. Vulnerability Scanning with Nmap
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+Description:
+Conducted a full network scan using Nmap to identify open ports and vulnerable services on a home network. Generated a detailed report outlining the security risks and proposed solutions to secure the network.
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/suleimangacheru"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/suleimangacheru" /></a></p><br><br>
+Skills Demonstrated:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hetrox8&show_icons=true&locale=en&layout=compact" alt="hetrox8" /></p>
+    Vulnerability scanning
+    Network mapping and service identification
+    Security risk mitigation
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hetrox8&show_icons=true&locale=en" alt="hetrox8" /></p>
+Tools Used:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hetrox8&" alt="hetrox8" /></p>
+    Nmap
+    Kali Linux
 
+Link: Project Repository or Case Study
+3. Python Keylogger Development
+
+Description:
+Built a keylogger in Python as an ethical hacking tool for educational purposes. The project demonstrates how keylogging works by capturing keystrokes and logging them in stealth mode, all while following best practices for responsible disclosure.
+
+Skills Demonstrated:
+
+    Python scripting
+    Ethical hacking techniques
+    Stealth and keylogging mechanisms
+
+Tools Used:
+
+    Python
+
+Link: Project Repository
+Blog / Writeups
+1. How I Analyzed Network Traffic with Wireshark
+
+Summary: In this blog post, I explain how I captured and analyzed network traffic using Wireshark, focusing on detecting anomalies in packet data and suggesting potential mitigation strategies.
+Link: Read more...
+2. My Experience with Capture the Flag (CTF) Challenges
+
+Summary: Participating in CTF challenges has helped me refine my skills in network exploitation and reverse engineering. In this post, I share the challenges I've solved and the tools I used.
+Link: Read more...
+Certifications
+
+    Google Cybersecurity Professional Certificate – Completed September 2024
+    [Any other relevant certifications here]
+
+Contact
+
+Feel free to reach out to me for collaborations or job opportunities:
+
+    Email: dretrevor8@gmail.com
+    LinkedIn: Your LinkedIn Profile
+    GitHub: Your GitHub Profile
