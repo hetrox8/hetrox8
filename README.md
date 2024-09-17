@@ -16,15 +16,15 @@ Technical Skills
 
 Soft Skills
 
-Stakeholder communication
-Detail orientade
-Planning and Organizing
-Effective communication and escaltion
+    Stakeholder communication
+    Detail orientade
+    Planning and Organizing
+    Effective communication and escaltion
 
 Certifications
 
-    Google Cybersecurity Professional Certificate
-    [Any additional certifications here]
+    Google Cybersecurity Professional Certificate: Link <a href="" target="blank"
+    Microverse Full Stack Web Development: Link <a href="" target="blank"
 
 Projects
 1. Network Traffic Analysis using Wireshark
