@@ -1,8 +1,8 @@
 <h1 align='center'>Whoami</h1>
 
-Hello! I'm Suleiman Yusuf Gacheru, a passionate cybersecurity specialist with a focus on network security, ethical hacking, and threat analysis. I recently completed the Google Cybersecurity Professional Certificate and am excited to apply my skills to real-world challenges.
+Hello! I'm Suleiman Yusuf Gacheru, a passionate cybersecurity specialist with a focus on network, network security, incident response. I recently completed the Google Cybersecurity Professional Certificate and am excited to apply, improve and grow my skills to real-world challenges.
 
-In addition to cybersecurity, I have experience in full-stack web development using Ruby on Rails and React, which gives me a well-rounded understanding of how to secure applications from the ground up. I'm continuously learning and looking for opportunities to grow, so feel free to check out my projects or reach out for collaborations.
+In addition to cybersecurity, I have experience in full-stack web development using Ruby, Javascript, Rails and React, which gives me a well-rounded understanding of how to secure applications from the ground up. I'm continuously learning and looking for opportunities to grow, so feel free to check out my projects or reach out for collaborations.
 Skills
 Technical Skills
 
@@ -26,23 +26,25 @@ Certifications
     Microverse Full Stack Web Development: Link <a href="" target="blank"
 
 Projects
-1. Network Traffic Analysis using Wireshark
+1. File permission in Linux
 
 Description:
-Analyzed network traffic between two routers to identify potential vulnerabilities and anomalies. Captured packets with Wireshark and inspected them for signs of unauthorized access or malicious activity. I recommended mitigation strategies based on the analysis.
+Organized and updated file permission for certain files and directories on the Linux Operating system. 
 
 Skills Demonstrated:
 
-    Network traffic analysis
-    Packet inspection using Wireshark
-    Threat identification
+    User Authorization
+    File Authorization
+    Linux line-commad
 
 Tools Used:
 
-    Wireshark
-    Kali Linux
+    Linux line-commad
+    Nano Editor
+    Linux OS
 
-Link: Project Repository or Case Study
+Link: https://docs.google.com/document/d/1OYggC7cRxPZUjpwLurSWuYReROiVYnbt5pQ7H67Wfyc/edit?usp=sharing
+
 2. Vulnerability Scanning with Nmap
 
 Description:
