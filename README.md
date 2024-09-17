@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suleiman Gacheru</h1>
-<h3 align="center">A passionate Full Stack Developer and Jr. Security Analyst from Kenya</h3>
+<h3 align="center">I am a Jr. Security Analyst and Software developer with over 2 years of experience building web applications, system and network tools . My greatest strength is collaborating and driving efficiencies across teams
+and , and I have a talent for protecting and monitoring networks and systems. I am passionate about helping people with network and systems  troubles and showing them the best practices and procedure best suited for their systems And most importantly, I value having fun and being collaborative, inclusive and authentic while I do it</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hetrox8&label=Profile%20views&color=0e75b6&style=flat" alt="hetrox8" /> </p>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
