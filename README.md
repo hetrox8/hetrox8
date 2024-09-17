@@ -1,5 +1,4 @@
-Here’s the full portfolio in README format, perfect for a GitHub repository or similar platforms:
-Suleiman Yusuf Gacheru – Cybersecurity Portfolio
+
 About Me
 
 Hello! I'm Suleiman Yusuf Gacheru, a passionate cybersecurity specialist with a focus on network security, ethical hacking, and threat analysis. I recently completed the Google Cybersecurity Professional Certificate and am excited to apply my skills to real-world challenges.
