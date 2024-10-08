@@ -45,23 +45,28 @@ Tools Used:
 
 Link: https://docs.google.com/document/d/1OYggC7cRxPZUjpwLurSWuYReROiVYnbt5pQ7H67Wfyc/edit?usp=sharing
 
-2. Vulnerability Scanning with Nmap
+2. Network security tool
 
 Description:
-Conducted a full network scan using Nmap to identify open ports and vulnerable services on a home network. Generated a detailed report outlining the security risks and proposed solutions to secure the network.
+Built a python network security tool to protect Home networks and small office networks. The core features for the tool include
 
+<b>Features</b>
+    Identify connected devices
+    Manage bandwidth for connected devices
+    Black and Whitelist connected devices
+    Set-timer for connected devices
+    
 Skills Demonstrated:
 
-    Vulnerability scanning
-    Network mapping and service identification
+    Network security
     Security risk mitigation
 
 Tools Used:
-
-    Nmap
+    Python3
+    Network Logs
     Kali Linux
 
-Link: Project Repository or Case Study
+Link: https://github.com/hetrox8/project.network-analysis.git
 3. Python Keylogger Development
 
 Description:
@@ -77,7 +82,8 @@ Tools Used:
 
     Python
 
-Link: Project Repository
+Link: https://github.com/hetrox8/Python_Key_Logger.git
+
 Blog / Writeups
 1. How I Analyzed Network Traffic with Wireshark
 
