@@ -42,22 +42,26 @@ In addition to cybersecurity, I have experience in full-stack web development us
    - **Tools Used:** Python3, Network logs, Kali Linux  
    - [Link to project](https://github.com/hetrox8/project.network-analysis.git)
 
-3. **SQL for Database Management**  
+3. **SQL for Database Management and Filtering**  
    - **Description:** Database querying using SQL.  
    - **Skills Demonstrated:** DB management, SQL  
    - [Link to project](https://docs.google.com/document/d/1pn_ql9LD2Y7_bV7GQV2iw68-JfdaJ4uM2H0X3pKFHPk/edit?usp=sharing)
+   - [Link to project](https://docs.google.com/document/d/1KszAAJ8jXxzqzy6slTNlBlLhvlizHNxP3-WVrQ0Nzsk/edit?usp=sharing)
+ 
 
 ---
 
 ### Blog / Writeups
 
-1. **How I Analyzed Network Traffic with Wireshark**  
-   - **Summary:** Explained how I captured and analyzed network traffic using Wireshark, focusing on detecting anomalies.  
-   - [Read more...](#)
+1. **Understanding the TCP/IP model**  
+   - **Summary:** Explained what the TCP/IP model is why it's important for people getting started with their cyber security career or network.
+   - [Read more...]()
+   - [Link to Article](https://medium.com/@dretrevor8/understanding-the-tcp-ip-model-fc96f5176dbd)
 
-2. **My Experience with Capture the Flag (CTF) Challenges**  
-   - **Summary:** Shared experiences solving CTF challenges, focusing on network exploitation and reverse engineering.  
+2. **Deciphering Crucial Logs: Firewall, Network, and Server Logs**  
+   - **Summary:** Explained the about logs both network, server and firewall loga.  
    - [Read more...](#)
+   - [Link to Article](https://medium.com/@dretrevor8/deciphering-crucial-logs-firewall-network-and-server-logs-538f1b39c394)
 
 ---
 
@@ -65,5 +69,5 @@ In addition to cybersecurity, I have experience in full-stack web development us
 
 Feel free to reach out for collaborations or job opportunities:  
 - **Email:** [dretrevor8@gmail.com](mailto:dretrevor8@gmail.com)  
-- **LinkedIn:** [Your LinkedIn Profile](#)  
-- **GitHub:** [Your GitHub Profile](#)
+- **LinkedIn:** [https://www.linkedin.com/in/suleiman-yusuf-gacheru/](#)  
+- **GitHub:** [https://github.com/hetrox8](#)
