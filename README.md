@@ -1,6 +1,3 @@
-Here’s a summary with clickable links:
-
----
 
 <h1 align='center'>Whoami</h1>
 
