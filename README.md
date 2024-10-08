@@ -42,8 +42,9 @@ Tools Used:
     Linux line-commad
     Nano Editor
     Linux OS
-
-Link: https://docs.google.com/document/d/1OYggC7cRxPZUjpwLurSWuYReROiVYnbt5pQ7H67Wfyc/edit?usp=sharing
+    *******
+    Link Below
+    Link: https://docs.google.com/document/d/1OYggC7cRxPZUjpwLurSWuYReROiVYnbt5pQ7H67Wfyc/edit?usp=sharing
 
 2. Network security tool
 
@@ -65,24 +66,26 @@ Tools Used:
     Python3
     Network Logs
     Kali Linux
+    ******
+    Link below
+    Link: https://github.com/hetrox8/project.network-analysis.git
 
-Link: https://github.com/hetrox8/project.network-analysis.git
-3. Python Keylogger Development
+
+3. SQL for database management
 
 Description:
-Built a keylogger in Python as an ethical hacking tool for educational purposes. The project demonstrates how keylogging works by capturing keystrokes and logging them in stealth mode, all while following best practices for responsible disclosure.
+Perform a database querying using SQL 
 
 Skills Demonstrated:
 
-    Python scripting
-    Ethical hacking techniques
-    Stealth and keylogging mechanisms
+    DB management
+    SQL 
 
 Tools Used:
-
-    Python
-
-Link: https://github.com/hetrox8/Python_Key_Logger.git
+    SQL
+    ****
+    Link below
+    https://docs.google.com/document/d/1pn_ql9LD2Y7_bV7GQV2iw68-JfdaJ4uM2H0X3pKFHPk/edit?usp=sharing
 
 Blog / Writeups
 1. How I Analyzed Network Traffic with Wireshark
