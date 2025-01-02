@@ -1,7 +1,3 @@
-Got it! Let’s create a **cool and engaging `README.md`** for your GitHub profile that’s **not just a resume** but a showcase of your personality, skills, and projects. Here’s a fresh take:
-
----
-
 # 👋 Hey there, I’m Suleiman Yusuf
 
 ### **Jr. Security Analyst | Software Developer | Tech Enthusiast**  
