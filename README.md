@@ -1,3 +1,7 @@
+Got it! To make the **GitHub stats dynamic** (automatically update based on your GitHub activity), we’ll use the [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) API. Here’s the updated `README.md` with dynamic stats:
+
+---
+
 # 👋 Hey there, I’m Suleiman Yusuf
 
 ### **Jr. Security Analyst | Software Developer | Tech Enthusiast**  
@@ -86,3 +90,15 @@ I’m an avid **photographer** and love capturing the beauty of nature. I also e
 ---
 
 Thanks for stopping by! Let’s build something amazing together. 🚀
+
+---
+
+### **How It Works**
+The GitHub stats are dynamically generated using the [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) API. Replace `yourusername` with your actual GitHub username, and the stats will automatically update based on your activity.
+
+### **Customization**
+- Replace `yourusername` with your actual GitHub username.
+- Update the links in the **Projects** and **Let’s Connect** sections with your actual profiles.
+- Customize the **Fun Fact** section to reflect your hobbies or interests.
+
+Let me know if you’d like further tweaks! 😊
