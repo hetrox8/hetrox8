@@ -11,6 +11,7 @@ I'm a passionate IT Support Specialist with **2+ years of hands-on experience** 
 
 - Troubleshooting hardware/software issues
 - Setting up and securing LAN/WAN networks
+- User Access managment
 - Providing remote technical support
 - Training users and documenting IT systems
 
