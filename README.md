@@ -1,6 +1,6 @@
 # 💻 Suleiman Yusuf Gacheru
 
-**IT Support Specialist | Systems & Security Enthusiast | Aspiring Network Technician**  
+**IT Support Specialist | Project Manager | System Administrator | Network Technician**  
 📍 Mombasa, Kenya • 📧 dretrevor8@gmail.com • 📞 +254 110 579100  
 [🔗 LinkedIn](https://www.linkedin.com/in/suleiman-yusuf-gacheru/) |
 ---
